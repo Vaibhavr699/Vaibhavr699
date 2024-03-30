@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/vaibhavr_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vaibhavr_06" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vaibhav-raj0135" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-raj0135" height="30" width="40" /></a>
-<a href="https://instagram.com/vaibhavrr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavrr6" height="30" width="40" /></a>
+<a href="https://instagram.com/vaibhavvr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhavrr6" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vaibhavraj007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhavraj007" height="30" width="40" /></a>
 </p>
 
