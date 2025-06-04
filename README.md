@@ -55,6 +55,10 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 
 ---
+<h3>🛠️ Languages used across my GitHub repos:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavr699&layout=compact&theme=radical" alt="Top languages" />
+</p>
 
 ### 🧠 GitHub Stats
 
