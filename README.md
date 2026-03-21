@@ -22,11 +22,11 @@
 
 ### 🧠 AI / GenAI Journey
 
-- 🔹 Learning **Large Language Models (LLMs)**
-- 🔹 Building with **Retrieval-Augmented Generation (RAG)**
-- 🔹 Exploring **Vector Databases & Embeddings**
-- 🔹 Working on **AI + SaaS integrations**
-- 🔹 Interested in **AI Agents & Automation (n8n, workflows)**
+-  Learning **Large Language Models (LLMs)**
+-  Building with **Retrieval-Augmented Generation (RAG)**
+-  Exploring **Vector Databases & Embeddings**
+-  Working on **AI + SaaS integrations**
+-  Interested in **AI Agents & Automation (n8n, workflows)**
 
 🚧 Currently building AI-powered real-world projects...
 
